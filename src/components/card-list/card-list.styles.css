@@ -1,0 +1,9 @@
+/* CSS of the card-list className */
+.card-list{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 20px;
+    width: 85vw;
+    margin: 0 auto;
+}
+
